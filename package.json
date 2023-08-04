@@ -1,0 +1,14 @@
+{
+  "name": "infigo-megaedit-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "megaedit-form-creator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@infigo-official/types-for-megaedit": "^1.0.13"
+  }
+}
